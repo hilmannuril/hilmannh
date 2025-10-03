@@ -18,10 +18,9 @@
 - **Frameworks:** Laravel, Node.js, Flask  
 - **Tools:** Git, Docker, JMeter  
 
-## 📊 Statistik GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilmannh&show_icons=true&theme=radical)
+
 
 ## 🌐 Hubungi Saya
-- ✉️ Email: [email@example.com](mailto:email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/hilmannh](https://linkedin.com/in/hilmannh)  
-- 🌐 Website: [hilmannh.com](https://hilmannh.com)
+- ✉️ Email: [hilman@ubhinus.co.id](hilmannuril@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/hilmannh]((https://www.linkedin.com/in/hilman-nuril-hadi-237b34117/))  
+
